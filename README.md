@@ -50,7 +50,7 @@
                 <dt>Name</dt>
                 <dd>JEEVAN BENNUR</dd>
                 <dt>SRN</dt>
-                <dd>02FE23BCS073</dd>
+                <dd>02FE23BCS071</dd>
                 <dt>Course Instructor</dt>
                 <dd>Shankar B</dd>
                 <dt>University</dt>
